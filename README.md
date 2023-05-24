@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 ## BLOGS
 <!-- BLOGPOSTS:START -->
- - 🚀 [Git &amp; Github](https://amit4162.hashnode.dev/git-github)<!-- BLOGPOSTS:END -->
+ - 🚀 [Git &amp; Github](https://amit4162.hashnode.dev/git-and-github)<!-- BLOGPOSTS:END -->

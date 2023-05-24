@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 <h3 align="left">Blogs List</h3>
 <p align="left">
 <!-- BLOGPOSTS:START -->
- - 🚀 [Git &amp; Github](https://amit4162.hashnode.dev/git-and-github)<!-- BLOGPOSTS:END -->
+ - 🚀 [Git and Github](https://amit4162.hashnode.dev/git-and-github)
+<!-- BLOGPOSTS:END -->

@@ -36,5 +36,7 @@ Here are some ideas to get you started:
  - 🚀 [Git and Github](https://amit4162.hashnode.dev/git-and-github)
 <!-- BLOGPOSTS:END -->
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammy4162&show_icons=true&locale=en" alt="ammy4162" /></p>
+ 📈 my github stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ammy4162&show_icons=true&theme=gotham" alt="ammy4162" />
  
